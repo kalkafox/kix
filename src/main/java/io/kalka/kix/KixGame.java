@@ -1,4 +1,4 @@
-package io.kalka.kix.game;
+package io.kalka.kix;
 
 import org.newdawn.slick.*;
 
